@@ -8,7 +8,7 @@
 | DHEFI NURKHOLIK (312210414)          |
 |                                      |
 
-# Laporan Uas Face Eye Detection
+# Laporan UAS Face Eye Detection
 
 ### Tutorial Penggunaan
 
